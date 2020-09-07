@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Select.qml</file>
+        <file>PreviewSelect.qml</file>
+        <file>Background.qml</file>
+        <file>ItemViewer.qml</file>
+        <file>ObjectsModel.qml</file>
+        <file>ViewerModels/ViewerModel1.qml</file>
+        <file>ViewerModels/ViewerModel2.qml</file>
+        <file>ViewerModels/ViewerModel3.qml</file>
+        <file>ViewerModels/ViewerModel4.qml</file>
+        <file>ViewerModels/ViewerModel5.qml</file>
+        <file>ViewerModels/ViewerModel6.qml</file>
+        <file>ViewerModels/ViewerModel7.qml</file>
+        <file>ViewerModels/ViewerModel8.qml</file>
+        <file>ViewerModels/ViewerModel9.qml</file>
+    </qresource>
+</RCC>
