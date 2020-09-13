@@ -11,3 +11,5 @@ Cами модели с рисунками в папке ViewersModel.qml
 https://play.google.com/store/apps/details?id=cute.truefunapps.animals - оригинальное приложение которое "клонировал".
 
 https://play.google.com/store/apps/details?id=com.mousemove.howtodraw&amp;hl=ru - мой клон (этот репозиторий)
+
+UPD гугл морочит с правилами для детских приложений, поэтому apk в репозитории, см файл build.apk
